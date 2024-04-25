@@ -1,0 +1,63 @@
+
+}
+body {
+	font-color: #000;
+	font-family: Impact;
+
+}
+
+h1{
+	font-color: #9F000F;
+	font-family:Snell Roundhand;
+	font-size: 100px;
+	float: center;
+	margin-top: -80px;
+
+}
+
+p {
+	font-family: Didot;
+	width: 800px;
+	text-size: 15px;
+	text-align: justify;
+
+
+}
+
+body { 
+	background-color: #C7A395; 
+}
+
+.menu {
+	margin-left: 1%;
+}
+
+.container {
+	height: 500 px;
+	margin: 60 px;
+	margin-top: 50px;
+	text-align: justify;
+	text-align-last: center;
+}
+
+
+.twoColumnContainer {
+		box-sizing: border-box;
+		margin: 30 px;
+		padding: 30 px;
+		width: 80%;
+}
+
+.oneColumn {
+	box-sizing: border-box;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0px;
+	margin-bottom: 40px;
+	padding: 0px;
+	width: 49%;
+	margin-left: 10%;
+}
+
+	
+	
